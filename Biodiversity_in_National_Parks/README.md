@@ -1,4 +1,4 @@
-# Biodiversity Analysis of U.S. National Parks
+![](./images/biodiversity_banner.png)
 
 This repository contains the code and resources used to analyze biodiversity data from the ***U.S. National Parks Service***. The 
 main goal of this project was to gain insights into the characteristics of the species and their conservation status, as well as 
